@@ -1,5 +1,5 @@
 def generate_star_date
-    date = (rand(100000) + 400000) / 10.0
+    (rand(100000) + 400000) / 10.0
     date = star_date
     return star_date
 end
